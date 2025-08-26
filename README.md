@@ -5,13 +5,10 @@ Estudante de programação apaixonada por aprender e criar projetos!
 - 🧠 Atualmente estudando: HTML,CSS, Git, GitHub e lógica de programação.
 - 🎯 Objetivo: Criar meus primeiros projetos práticos.
 
-
 ### 🚀 Meus projetos:
 - Em breve novos projetos por aqui!
 
 ### 📫 Contato:
 - Email: mariagabrielaestudos@gmail.com
 
-- 🧠 Atualmente estudando: HTML,CSS, Git, GitHub e lógica de programação.
-🎯 Objetivo: Criar meus primeiros projetos práticos
 
