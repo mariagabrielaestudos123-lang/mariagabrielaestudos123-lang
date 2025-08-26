@@ -9,4 +9,4 @@ Estudante de programação apaixonada por aprender e criar projetos!
 - Em breve novos projetos por aqui!
 
 ### 📫 Contato:
-- Email: mariagabriela@email.com
+- Email: mariagabrielaestudos@gmail.com
