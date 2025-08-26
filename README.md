@@ -18,4 +18,7 @@ Estudante de programação apaixonada por aprender e criar projetos!
 ### 📫 Contato:
 - Email: mariagabrielaestudos@gmail.com
 
+- ![Top Language](https://img.shields.io/github/languages/top/seuusuario/seurepositorio)
+
+
 
