@@ -3,7 +3,7 @@ Estudante de programação apaixonada por aprender e criar projetos!
 
 ### 💻 Tecnologias que estou estudando:
 - 🧠 Atualmente estudando: HTML,CSS, Git, GitHub e lógica de programação.
-🎯 Objetivo: Criar meus primeiros projetos práticos
+- 🎯 Objetivo: Criar meus primeiros projetos práticos.
 
 
 ### 🚀 Meus projetos:
