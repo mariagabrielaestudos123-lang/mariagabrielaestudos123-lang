@@ -6,6 +6,8 @@ Estudante de programação apaixonada por aprender e criar projetos!
 - 🎯 Objetivo: Criar meus primeiros projetos práticos.
 - ## 💻 Tecnologias que estou estudando:
 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
